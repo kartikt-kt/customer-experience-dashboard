@@ -1,0 +1,201 @@
+order_id,order_date,customer_segment,priority,product_category,order_value_inr,origin,destination,special_handling,carrier,promised_delivery_days,actual_delivery_days,delivery_status,quality_issue,customer_rating,delivery_cost_inr,feedback_date,rating,feedback_text,would_recommend,issue_category,delivery_delay_days,avg_rating,is_late,avg_delay_days,median_delay_days,percent_late_deliveries,sentiment_score,risk_score,at_risk
+ORD000001,2025-10-09,1,1,6,238.73,Kolkata,Hyderabad,,SpeedyLogistics,1.0,2.0,Slightly-Delayed,Perfect,3.0,387.86,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000002,2025-09-29,2,1,6,17.01,Hyderabad,Kolkata,,SpeedyLogistics,2.0,3.0,Slightly-Delayed,Minor_Damage,1.0,430.19,2025-10-03,1.0,"Great service, very fast delivery!",Yes,Timing,1.0,1.0,True,1.08,0.0,35.0,0.6588,1,0
+ORD000003,2025-09-15,2,0,6,3024.95,Mumbai,Pune,,SpeedyLogistics,10.0,15.0,Severely-Delayed,Minor_Damage,3.0,1039.19,2025-09-30,3.0,"Perfect condition, thank you",No,Timing,5.0,3.0,True,1.08,0.0,35.0,0.7351,2,1
+ORD000004,2025-10-13,1,0,2,56.74,Hyderabad,Ahmedabad,,QuickShip,5.0,5.0,On-Time,Perfect,5.0,599.01,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000005,2025-09-08,2,2,2,19148.65,Chennai,Mumbai,,SpeedyLogistics,4.0,5.0,Slightly-Delayed,Perfect,3.0,537.9,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000006,2025-09-21,1,1,3,158.22,Chennai,Dubai,,GlobalTransit,1.0,2.0,Slightly-Delayed,Perfect,4.0,378.99,,,,,,1.0,4.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000007,2025-10-09,1,2,1,736.82,Pune,Bangalore,,QuickShip,3.0,3.0,On-Time,Perfect,4.0,439.72,2025-10-12,4.0,"Delayed by 3 days, not acceptable",Yes,Timing,0.0,4.0,False,1.08,0.0,35.0,-0.4333,1,0
+ORD000008,2025-09-19,0,2,6,4771.54,Chennai,Kolkata,,GlobalTransit,5.0,10.0,Severely-Delayed,Perfect,2.0,836.35,,,,,,5.0,2.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000009,2025-09-23,2,1,0,3711.35,Delhi,Hong Kong,,SpeedyLogistics,2.0,2.0,On-Time,Perfect,5.0,414.8,2025-09-25,5.0,Wrong item delivered,Yes,Service,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000010,2025-09-11,2,2,1,7936.32,Hyderabad,Mumbai,Hazmat,GlobalTransit,4.0,9.0,Severely-Delayed,Minor_Damage,3.0,891.65,,,,,,5.0,3.0,True,1.08,0.0,35.0,0.0,1,0
+ORD000011,2025-09-11,0,2,0,41.07,Delhi,Bangkok,,EcoDeliver,3.0,4.0,Slightly-Delayed,Perfect,3.0,319.8,2025-09-16,3.0,"Perfect condition, thank you",No,Timing,1.0,3.0,True,1.08,0.0,35.0,0.7351,1,0
+ORD000012,2025-09-24,0,2,1,73.42,Mumbai,Hong Kong,,ReliableExpress,3.0,3.0,On-Time,Perfect,5.0,583.33,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000013,2025-10-06,2,2,3,566.23,Hyderabad,Bangalore,,QuickShip,3.0,3.0,On-Time,Perfect,4.0,587.57,2025-10-13,4.0,Wrong item delivered,Yes,Timing,0.0,4.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000014,2025-10-10,2,1,6,1421.72,Delhi,Bangalore,,SpeedyLogistics,2.0,2.0,On-Time,Perfect,5.0,313.96,2025-10-16,5.0,Package arrived damaged,Yes,Service,0.0,5.0,False,1.08,0.0,35.0,-0.4404,1,0
+ORD000015,2025-09-24,0,2,6,396.69,Kolkata,Delhi,Hazmat,EcoDeliver,3.0,3.0,On-Time,Perfect,5.0,435.14,2025-09-27,5.0,Poor customer service response,Yes,,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000016,2025-09-03,0,2,4,34.57,Delhi,Mumbai,Fragile,ReliableExpress,3.0,3.0,On-Time,Perfect,5.0,425.42,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000017,2025-09-22,1,2,0,849.69,Hyderabad,Singapore,,GlobalTransit,5.0,5.0,On-Time,Perfect,4.0,437.4,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000018,2025-09-02,0,0,1,301.46,Mumbai,Chennai,Fragile,EcoDeliver,7.0,8.0,Slightly-Delayed,Perfect,3.0,658.72,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000019,2025-09-24,0,2,1,296.08,Ahmedabad,Bangalore,Hazmat,GlobalTransit,5.0,6.0,Slightly-Delayed,Wrong_Item,1.0,417.76,2025-09-30,1.0,"Delayed by 3 days, not acceptable",No,Timing,1.0,1.0,True,1.08,0.0,35.0,-0.4333,3,1
+ORD000020,2025-10-14,2,1,2,13.24,Kolkata,Pune,Temperature_Controlled,QuickShip,2.0,2.0,On-Time,Perfect,5.0,311.13,2025-10-20,5.0,Driver was very professional,Yes,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000021,2025-09-30,1,1,4,1334.39,Mumbai,Singapore,Fragile,QuickShip,2.0,2.0,On-Time,Perfect,5.0,526.67,2025-10-03,5.0,Excellent packaging,No,Quality,0.0,5.0,False,1.08,0.0,35.0,0.5719,1,0
+ORD000022,2025-10-08,0,2,5,501.6,Bangalore,Dubai,Fragile,SpeedyLogistics,3.0,3.0,On-Time,Perfect,5.0,363.82,2025-10-14,5.0,Poor customer service response,Yes,,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000023,2025-09-02,2,1,5,5959.53,Ahmedabad,Dubai,,EcoDeliver,1.0,3.0,Slightly-Delayed,Perfect,4.0,577.28,2025-09-05,4.0,Driver was very professional,Yes,,2.0,4.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000024,2025-09-21,1,2,2,360.77,Bangalore,Kolkata,,ReliableExpress,5.0,6.0,Slightly-Delayed,Perfect,3.0,612.64,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000025,2025-10-03,0,0,2,943.42,Mumbai,Hyderabad,,QuickShip,10.0,10.0,On-Time,Perfect,5.0,951.95,2025-10-17,5.0,Late delivery but good quality,No,Quality,0.0,5.0,False,1.08,0.0,35.0,0.5927,1,0
+ORD000026,2025-09-12,1,2,2,1404.91,Bangalore,Delhi,,SpeedyLogistics,5.0,6.0,Slightly-Delayed,Perfect,3.0,629.91,2025-09-20,3.0,Late delivery but good quality,Yes,Service,1.0,3.0,True,1.08,0.0,35.0,0.5927,0,0
+ORD000027,2025-09-22,2,2,0,29.39,Bangalore,Bangkok,,SpeedyLogistics,5.0,5.0,On-Time,Perfect,5.0,361.87,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000028,2025-10-14,2,2,0,20435.93,Kolkata,Dubai,,GlobalTransit,5.0,5.0,On-Time,Perfect,5.0,620.17,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000029,2025-09-25,2,2,3,211.41,Chennai,Singapore,,ReliableExpress,3.0,3.0,On-Time,Perfect,5.0,267.94,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000030,2025-10-19,2,2,3,847.13,Delhi,Chennai,Fragile,GlobalTransit,5.0,5.0,On-Time,Perfect,5.0,530.24,2025-10-28,5.0,Wrong item delivered,Yes,Other,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000031,2025-09-27,0,0,2,1054.55,Mumbai,Bangkok,Temperature_Controlled,QuickShip,7.0,8.0,Slightly-Delayed,Perfect,3.0,871.77,2025-10-07,3.0,Poor customer service response,Yes,,1.0,3.0,True,1.08,0.0,35.0,-0.4767,1,0
+ORD000032,2025-10-12,1,2,4,118.85,Chennai,Dubai,,ReliableExpress,3.0,5.0,Slightly-Delayed,Perfect,3.0,416.08,2025-10-21,3.0,"Great service, very fast delivery!",No,Service,2.0,3.0,True,1.08,0.0,35.0,0.6588,1,0
+ORD000033,2025-09-28,2,0,1,6441.2,Delhi,Chennai,,SpeedyLogistics,5.0,5.0,On-Time,Perfect,5.0,505.95,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000034,2025-09-16,0,0,0,601.2,Mumbai,Dubai,Temperature_Controlled,ReliableExpress,7.0,8.0,Slightly-Delayed,Perfect,3.0,791.94,2025-09-27,3.0,Driver was very professional,Yes,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000035,2025-09-15,0,1,4,292.89,Pune,Delhi,,SpeedyLogistics,2.0,3.0,Slightly-Delayed,Perfect,3.0,602.9,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000036,2025-10-17,2,1,6,496.59,Chennai,Hong Kong,Fragile,EcoDeliver,2.0,3.0,Slightly-Delayed,Perfect,3.0,518.38,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000037,2025-10-14,2,1,0,1269.5,Chennai,Dubai,,QuickShip,1.0,1.0,On-Time,Minor_Damage,4.0,253.27,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000038,2025-09-03,0,1,0,410.02,Hyderabad,Singapore,,SpeedyLogistics,1.0,6.0,Severely-Delayed,Perfect,1.0,669.84,2025-09-11,1.0,Poor customer service response,Yes,Timing,5.0,1.0,True,1.08,0.0,35.0,-0.4767,3,1
+ORD000039,2025-10-07,2,1,3,1514.58,Bangalore,Dubai,Hazmat,GlobalTransit,2.0,3.0,Slightly-Delayed,Perfect,3.0,368.69,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000040,2025-09-07,0,2,1,32.22,Kolkata,Hyderabad,,GlobalTransit,5.0,5.0,On-Time,Perfect,5.0,637.37,2025-09-12,5.0,"Perfect condition, thank you",No,Quality,0.0,5.0,False,1.08,0.0,35.0,0.7351,1,0
+ORD000041,2025-09-21,2,1,1,131.37,Bangalore,Bangkok,,ReliableExpress,1.0,2.0,Slightly-Delayed,Perfect,3.0,581.61,2025-09-24,3.0,"No complaints, smooth process",Yes,Timing,1.0,3.0,True,1.08,0.0,35.0,-0.5994,1,0
+ORD000042,2025-09-09,0,2,5,16.31,Mumbai,Bangkok,Fragile,ReliableExpress,4.0,4.0,On-Time,Perfect,4.0,588.56,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000043,2025-10-09,2,0,5,8066.8,Delhi,Bangalore,,QuickShip,10.0,12.0,Slightly-Delayed,Wrong_Item,1.0,1045.15,,,,,,2.0,1.0,True,1.08,0.0,35.0,0.0,1,0
+ORD000044,2025-09-18,2,1,5,7910.83,Bangalore,Singapore,,SpeedyLogistics,1.0,1.0,On-Time,Perfect,5.0,150.84,2025-09-23,5.0,Driver was very professional,No,Other,0.0,5.0,False,1.08,0.0,35.0,0.0,1,0
+ORD000045,2025-09-04,1,0,5,1032.69,Kolkata,Pune,Hazmat,SpeedyLogistics,5.0,5.0,On-Time,Perfect,4.0,637.03,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000046,2025-09-25,0,2,6,88.33,Mumbai,Singapore,,SpeedyLogistics,3.0,5.0,Slightly-Delayed,Perfect,3.0,681.84,,,,,,2.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000047,2025-09-14,2,1,6,14542.31,Mumbai,Bangkok,Temperature_Controlled,QuickShip,1.0,1.0,On-Time,Perfect,4.0,166.22,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000048,2025-10-20,0,2,0,162.94,Delhi,Hyderabad,,EcoDeliver,3.0,3.0,On-Time,Perfect,5.0,598.64,2025-10-25,5.0,Package arrived damaged,Yes,Service,0.0,5.0,False,1.08,0.0,35.0,-0.4404,1,0
+ORD000049,2025-09-09,1,2,2,293.0,Delhi,Hong Kong,,GlobalTransit,5.0,5.0,On-Time,Major_Damage,3.0,452.68,2025-09-16,3.0,Driver was very professional,Yes,,0.0,3.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000050,2025-09-26,1,0,3,512.5,Kolkata,Delhi,,SpeedyLogistics,5.0,5.0,On-Time,Wrong_Item,4.0,616.12,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000051,2025-09-02,0,0,3,794.15,Delhi,Pune,,QuickShip,10.0,10.0,On-Time,Perfect,5.0,920.14,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000052,2025-09-20,2,0,5,1059.66,Chennai,Hyderabad,Temperature_Controlled,ReliableExpress,7.0,8.0,Slightly-Delayed,Perfect,3.0,765.07,2025-09-30,3.0,"Great service, very fast delivery!",Yes,Timing,1.0,3.0,True,1.08,0.0,35.0,0.6588,0,0
+ORD000053,2025-09-28,1,2,0,1125.45,Bangalore,Hyderabad,Temperature_Controlled,ReliableExpress,3.0,3.0,On-Time,Perfect,5.0,286.91,2025-10-04,5.0,Wrong item delivered,Yes,Timing,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000054,2025-10-17,2,1,4,324.8,Bangalore,Mumbai,,EcoDeliver,2.0,3.0,Slightly-Delayed,Perfect,3.0,488.53,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000055,2025-09-07,2,0,2,1099.0,Hyderabad,Delhi,Fragile,GlobalTransit,7.0,12.0,Severely-Delayed,Perfect,3.0,919.83,2025-09-22,3.0,Package arrived damaged,No,Timing,5.0,3.0,True,1.08,0.0,35.0,-0.4404,3,1
+ORD000056,2025-10-14,0,0,0,303.74,Delhi,Singapore,,SpeedyLogistics,7.0,7.0,On-Time,Perfect,5.0,810.13,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000057,2025-09-08,0,0,2,961.94,Kolkata,Bangalore,,EcoDeliver,10.0,10.0,On-Time,Perfect,5.0,761.7,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000058,2025-10-17,1,2,2,850.6,Delhi,Hong Kong,,ReliableExpress,4.0,4.0,On-Time,Incomplete,3.0,428.43,,,,,,0.0,3.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000059,2025-10-05,1,2,2,1266.83,Delhi,Chennai,,GlobalTransit,3.0,7.0,Severely-Delayed,Perfect,1.0,749.94,,,,,,4.0,1.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000060,2025-09-14,2,0,0,1050.42,Pune,Singapore,,ReliableExpress,5.0,5.0,On-Time,Perfect,5.0,515.07,2025-09-20,5.0,Package arrived damaged,Yes,,0.0,5.0,False,1.08,0.0,35.0,-0.4404,1,0
+ORD000061,2025-09-17,2,2,5,207.75,Mumbai,Singapore,Fragile,ReliableExpress,4.0,4.0,On-Time,Perfect,5.0,558.44,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000062,2025-10-06,2,0,3,802.77,Mumbai,Bangalore,,QuickShip,5.0,5.0,On-Time,Perfect,4.0,608.58,2025-10-14,4.0,Late delivery but good quality,Yes,Quality,0.0,4.0,False,1.08,0.0,35.0,0.5927,0,0
+ORD000063,2025-10-20,1,0,3,1075.03,Kolkata,Singapore,,ReliableExpress,7.0,9.0,Slightly-Delayed,Perfect,3.0,905.22,2025-10-30,3.0,"Great service, very fast delivery!",Yes,Service,2.0,3.0,True,1.08,0.0,35.0,0.6588,0,0
+ORD000064,2025-10-10,1,2,5,58.17,Mumbai,Bangkok,,GlobalTransit,4.0,5.0,Slightly-Delayed,Perfect,3.0,589.48,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000065,2025-09-04,1,0,2,267.45,Hyderabad,Mumbai,,QuickShip,7.0,7.0,On-Time,Perfect,5.0,650.86,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000066,2025-09-02,1,0,4,1004.43,Delhi,Pune,Fragile,QuickShip,7.0,12.0,Severely-Delayed,Perfect,3.0,755.55,2025-09-18,3.0,Late delivery but good quality,Yes,Quality,5.0,3.0,True,1.08,0.0,35.0,0.5927,1,0
+ORD000067,2025-09-06,2,1,1,5239.28,Pune,Singapore,,ReliableExpress,1.0,1.0,On-Time,Perfect,5.0,196.3,2025-09-07,5.0,"Delayed by 3 days, not acceptable",Yes,,0.0,5.0,False,1.08,0.0,35.0,-0.4333,1,0
+ORD000068,2025-10-12,0,0,0,1390.4,Kolkata,Bangalore,,ReliableExpress,7.0,7.0,On-Time,Perfect,4.0,511.73,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000069,2025-09-04,0,2,1,5759.28,Chennai,Singapore,,ReliableExpress,3.0,4.0,Slightly-Delayed,Perfect,3.0,368.74,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000070,2025-09-29,1,0,5,221.95,Pune,Mumbai,,SpeedyLogistics,10.0,15.0,Severely-Delayed,Perfect,1.0,1105.15,,,,,,5.0,1.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000071,2025-09-18,2,2,4,587.15,Delhi,Bangkok,,ReliableExpress,5.0,5.0,On-Time,Perfect,5.0,646.39,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000072,2025-09-26,0,0,0,1351.0,Pune,Bangkok,,ReliableExpress,5.0,9.0,Severely-Delayed,Perfect,1.0,762.0,,,,,,4.0,1.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000073,2025-10-14,0,2,5,12.31,Mumbai,Dubai,Fragile,ReliableExpress,3.0,8.0,Severely-Delayed,Perfect,2.0,831.61,2025-10-25,2.0,Excellent packaging,Yes,,5.0,2.0,True,1.08,0.0,35.0,0.5719,2,1
+ORD000074,2025-10-04,2,1,2,3890.16,Bangalore,Bangkok,Temperature_Controlled,ReliableExpress,2.0,2.0,On-Time,Perfect,5.0,596.51,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000075,2025-09-10,0,0,3,24.75,Delhi,Dubai,,ReliableExpress,10.0,15.0,Severely-Delayed,Perfect,3.0,1178.01,,,,,,5.0,3.0,True,1.08,0.0,35.0,0.0,1,0
+ORD000076,2025-10-06,0,1,1,1799.76,Bangalore,Hyderabad,,QuickShip,2.0,2.0,On-Time,Perfect,5.0,477.95,2025-10-10,5.0,Package arrived damaged,Yes,,0.0,5.0,False,1.08,0.0,35.0,-0.4404,1,0
+ORD000077,2025-09-14,2,2,6,1130.31,Mumbai,Hong Kong,,QuickShip,3.0,3.0,On-Time,Perfect,5.0,463.0,2025-09-20,5.0,Package arrived damaged,Yes,,0.0,5.0,False,1.08,0.0,35.0,-0.4404,1,0
+ORD000078,2025-10-01,2,0,6,12.07,Hyderabad,Chennai,,SpeedyLogistics,7.0,7.0,On-Time,Perfect,5.0,629.54,2025-10-12,5.0,"Perfect condition, thank you",No,Quality,0.0,5.0,False,1.08,0.0,35.0,0.7351,1,0
+ORD000079,2025-10-18,2,0,4,13.02,Hyderabad,Bangkok,,GlobalTransit,7.0,8.0,Slightly-Delayed,Wrong_Item,2.0,533.76,,,,,,1.0,2.0,True,1.08,0.0,35.0,0.0,1,0
+ORD000080,2025-09-15,0,2,2,3458.96,Pune,Hyderabad,,QuickShip,3.0,3.0,On-Time,Perfect,5.0,409.75,2025-09-20,5.0,Late delivery but good quality,Yes,,0.0,5.0,False,1.08,0.0,35.0,0.5927,0,0
+ORD000081,2025-09-08,1,2,1,2495.1,Mumbai,Ahmedabad,,ReliableExpress,5.0,7.0,Slightly-Delayed,Perfect,3.0,814.05,,,,,,2.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000082,2025-09-14,0,2,2,107.63,Chennai,Hyderabad,,SpeedyLogistics,5.0,6.0,Slightly-Delayed,Perfect,3.0,723.21,2025-09-23,3.0,"Perfect condition, thank you",Yes,Quality,1.0,3.0,True,1.08,0.0,35.0,0.7351,0,0
+ORD000083,2025-09-23,2,2,1,107.47,Bangalore,Bangkok,,SpeedyLogistics,5.0,10.0,Severely-Delayed,Perfect,2.0,686.42,2025-10-04,2.0,Excellent packaging,Yes,Timing,5.0,2.0,True,1.08,0.0,35.0,0.5719,2,1
+ORD000084,2025-10-10,1,2,4,870.36,Delhi,Hong Kong,,ReliableExpress,4.0,4.0,On-Time,Perfect,5.0,486.64,2025-10-15,5.0,Late delivery but good quality,Yes,,0.0,5.0,False,1.08,0.0,35.0,0.5927,0,0
+ORD000085,2025-09-21,2,2,4,395.79,Delhi,Dubai,,SpeedyLogistics,4.0,7.0,Severely-Delayed,Perfect,1.0,776.69,2025-10-01,1.0,Excellent packaging,Yes,,3.0,1.0,True,1.08,0.0,35.0,0.5719,2,1
+ORD000086,2025-09-16,1,0,6,1961.75,Delhi,Chennai,,SpeedyLogistics,7.0,10.0,Severely-Delayed,Perfect,1.0,626.95,2025-09-26,1.0,Excellent packaging,Yes,,3.0,1.0,True,1.08,0.0,35.0,0.5719,2,1
+ORD000087,2025-10-15,2,0,2,828.3,Chennai,Ahmedabad,,SpeedyLogistics,10.0,10.0,On-Time,Perfect,4.0,754.96,2025-10-29,4.0,"No complaints, smooth process",Yes,Timing,0.0,4.0,False,1.08,0.0,35.0,-0.5994,1,0
+ORD000088,2025-09-18,2,0,0,4335.3,Bangalore,Hong Kong,Fragile,SpeedyLogistics,5.0,5.0,On-Time,Perfect,4.0,690.74,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000089,2025-10-17,0,1,6,1728.69,Bangalore,Hong Kong,,SpeedyLogistics,1.0,2.0,Slightly-Delayed,Perfect,3.0,361.56,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000090,2025-09-24,2,2,2,1189.35,Mumbai,Bangkok,Hazmat,GlobalTransit,4.0,5.0,Slightly-Delayed,Perfect,3.0,381.05,2025-10-03,3.0,"Great service, very fast delivery!",No,Service,1.0,3.0,True,1.08,0.0,35.0,0.6588,1,0
+ORD000091,2025-09-26,0,1,6,237.89,Mumbai,Hyderabad,,GlobalTransit,1.0,5.0,Severely-Delayed,Perfect,1.0,567.01,2025-10-05,1.0,Package arrived damaged,Yes,Timing,4.0,1.0,True,1.08,0.0,35.0,-0.4404,3,1
+ORD000092,2025-09-25,0,2,0,213.15,Mumbai,Ahmedabad,Fragile,EcoDeliver,5.0,5.0,On-Time,Major_Damage,4.0,694.7,2025-10-02,4.0,Excellent packaging,Yes,Quality,0.0,4.0,False,1.08,0.0,35.0,0.5719,0,0
+ORD000093,2025-10-15,1,2,3,373.29,Ahmedabad,Delhi,,QuickShip,4.0,8.0,Severely-Delayed,Perfect,1.0,736.11,2025-10-26,1.0,"No complaints, smooth process",Yes,Service,4.0,1.0,True,1.08,0.0,35.0,-0.5994,3,1
+ORD000094,2025-10-11,2,0,3,6383.13,Mumbai,Kolkata,Fragile,ReliableExpress,10.0,11.0,Slightly-Delayed,Perfect,3.0,740.51,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000095,2025-09-29,1,2,3,219.33,Mumbai,Bangalore,Fragile,SpeedyLogistics,3.0,3.0,On-Time,Perfect,5.0,403.7,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000096,2025-09-15,2,1,3,596.33,Delhi,Ahmedabad,,SpeedyLogistics,2.0,2.0,On-Time,Perfect,5.0,380.05,2025-09-21,5.0,"No complaints, smooth process",Yes,Service,0.0,5.0,False,1.08,0.0,35.0,-0.5994,1,0
+ORD000097,2025-10-15,1,1,5,13.91,Kolkata,Delhi,,ReliableExpress,1.0,2.0,Slightly-Delayed,Perfect,3.0,431.71,2025-10-20,3.0,Excellent packaging,No,Quality,1.0,3.0,True,1.08,0.0,35.0,0.5719,1,0
+ORD000098,2025-09-01,2,0,1,1111.77,Ahmedabad,Bangkok,,SpeedyLogistics,5.0,9.0,Severely-Delayed,Perfect,3.0,853.74,2025-09-13,3.0,Driver was very professional,Yes,,4.0,3.0,True,1.08,0.0,35.0,0.0,1,0
+ORD000099,2025-09-25,2,2,5,11917.91,Kolkata,Mumbai,,QuickShip,4.0,5.0,Slightly-Delayed,Perfect,4.0,389.55,2025-10-01,4.0,Wrong item delivered,Yes,Timing,1.0,4.0,True,1.08,0.0,35.0,-0.4767,1,0
+ORD000100,2025-09-07,2,1,5,99.44,Chennai,Dubai,,QuickShip,2.0,2.0,On-Time,Perfect,5.0,555.86,2025-09-09,5.0,Wrong item delivered,Yes,Quality,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000101,2025-09-09,0,1,5,47177.07,Bangalore,Mumbai,,QuickShip,2.0,2.0,On-Time,Perfect,5.0,204.92,2025-09-13,5.0,"Great service, very fast delivery!",Yes,Timing,0.0,5.0,False,1.08,0.0,35.0,0.6588,0,0
+ORD000102,2025-09-24,1,0,3,530.26,Mumbai,Singapore,,SpeedyLogistics,5.0,7.0,Slightly-Delayed,Perfect,4.0,598.02,2025-10-04,4.0,"No complaints, smooth process",Yes,,2.0,4.0,True,1.08,0.0,35.0,-0.5994,1,0
+ORD000103,2025-09-01,0,1,0,8.5,Pune,Delhi,,GlobalTransit,1.0,2.0,Slightly-Delayed,Perfect,3.0,210.97,2025-09-06,3.0,Excellent packaging,Yes,Quality,1.0,3.0,True,1.08,0.0,35.0,0.5719,0,0
+ORD000104,2025-10-14,0,0,4,226.26,Kolkata,Singapore,Fragile,QuickShip,5.0,5.0,On-Time,Perfect,5.0,507.19,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000105,2025-09-08,2,0,4,2968.04,Chennai,Bangalore,,SpeedyLogistics,10.0,10.0,On-Time,Perfect,5.0,810.33,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000106,2025-09-24,0,1,1,8094.79,Kolkata,Pune,Hazmat,ReliableExpress,1.0,4.0,Severely-Delayed,Perfect,1.0,504.67,2025-10-01,1.0,"Great service, very fast delivery!",Yes,,3.0,1.0,True,1.08,0.0,35.0,0.6588,2,1
+ORD000107,2025-09-11,1,1,3,1184.59,Kolkata,Bangalore,,ReliableExpress,1.0,1.0,On-Time,Perfect,5.0,216.25,2025-09-12,5.0,Late delivery but good quality,Yes,Service,0.0,5.0,False,1.08,0.0,35.0,0.5927,0,0
+ORD000108,2025-09-17,1,0,3,4236.07,Chennai,Ahmedabad,,EcoDeliver,10.0,10.0,On-Time,Perfect,4.0,858.3,2025-09-29,4.0,Poor customer service response,No,Timing,0.0,4.0,False,1.08,0.0,35.0,-0.4767,2,1
+ORD000109,2025-09-08,1,2,3,68.95,Ahmedabad,Hong Kong,,SpeedyLogistics,3.0,3.0,On-Time,Perfect,5.0,267.91,2025-09-14,5.0,"No complaints, smooth process",Yes,Timing,0.0,5.0,False,1.08,0.0,35.0,-0.5994,1,0
+ORD000110,2025-10-05,2,2,6,145.42,Pune,Dubai,,ReliableExpress,5.0,10.0,Severely-Delayed,Perfect,2.0,904.76,,,,,,5.0,2.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000111,2025-10-05,0,0,2,32.49,Chennai,Delhi,Fragile,QuickShip,10.0,10.0,On-Time,Perfect,5.0,978.66,2025-10-19,5.0,Package arrived damaged,Yes,Quality,0.0,5.0,False,1.08,0.0,35.0,-0.4404,1,0
+ORD000112,2025-10-03,1,0,6,162.78,Chennai,Hyderabad,,GlobalTransit,10.0,10.0,On-Time,Perfect,4.0,735.91,2025-10-17,4.0,Driver was very professional,Yes,Timing,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000113,2025-09-05,2,0,2,1265.06,Mumbai,Pune,Fragile,SpeedyLogistics,10.0,15.0,Severely-Delayed,Perfect,1.0,1056.9,2025-09-20,1.0,"Perfect condition, thank you",Yes,Timing,5.0,1.0,True,1.08,0.0,35.0,0.7351,2,1
+ORD000114,2025-10-12,1,0,3,555.01,Chennai,Kolkata,,ReliableExpress,7.0,7.0,On-Time,Perfect,5.0,601.56,2025-10-22,5.0,"Great service, very fast delivery!",No,Service,0.0,5.0,False,1.08,0.0,35.0,0.6588,1,0
+ORD000115,2025-10-09,1,2,3,1482.93,Mumbai,Kolkata,,SpeedyLogistics,3.0,3.0,On-Time,Perfect,5.0,252.68,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000116,2025-10-11,1,1,6,99.01,Bangalore,Kolkata,,GlobalTransit,2.0,2.0,On-Time,Minor_Damage,4.0,354.35,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000117,2025-09-28,0,0,6,108.5,Ahmedabad,Delhi,,SpeedyLogistics,5.0,5.0,On-Time,Perfect,4.0,666.69,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000118,2025-09-07,2,2,2,548.35,Bangalore,Kolkata,,ReliableExpress,4.0,4.0,On-Time,Perfect,5.0,538.4,2025-09-14,5.0,"Great service, very fast delivery!",No,Service,0.0,5.0,False,1.08,0.0,35.0,0.6588,1,0
+ORD000119,2025-09-09,1,2,4,163.37,Bangalore,Bangkok,,ReliableExpress,3.0,7.0,Severely-Delayed,Perfect,1.0,490.5,2025-09-18,1.0,"Great service, very fast delivery!",Yes,,4.0,1.0,True,1.08,0.0,35.0,0.6588,2,1
+ORD000120,2025-09-08,2,0,2,2843.45,Delhi,Mumbai,,ReliableExpress,5.0,5.0,On-Time,Perfect,5.0,688.86,2025-09-15,5.0,"Great service, very fast delivery!",Yes,Timing,0.0,5.0,False,1.08,0.0,35.0,0.6588,0,0
+ORD000121,2025-09-12,0,1,6,157.41,Mumbai,Pune,,GlobalTransit,1.0,1.0,On-Time,Perfect,4.0,362.43,,,,,,0.0,4.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000122,2025-10-04,2,2,0,191.89,Kolkata,Mumbai,,SpeedyLogistics,3.0,3.0,On-Time,Perfect,5.0,586.69,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000123,2025-10-03,1,1,6,756.16,Mumbai,Hong Kong,,QuickShip,2.0,2.0,On-Time,Minor_Damage,3.0,432.09,,,,,,0.0,3.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000124,2025-10-18,2,2,0,224.99,Mumbai,Pune,,QuickShip,5.0,5.0,On-Time,Perfect,5.0,573.88,2025-10-27,5.0,"Delayed by 3 days, not acceptable",Yes,Quality,0.0,5.0,False,1.08,0.0,35.0,-0.4333,1,0
+ORD000125,2025-09-23,2,1,1,63.28,Delhi,Mumbai,,SpeedyLogistics,2.0,3.0,Slightly-Delayed,Perfect,3.0,292.1,2025-09-28,3.0,Late delivery but good quality,Yes,Other,1.0,3.0,True,1.08,0.0,35.0,0.5927,0,0
+ORD000126,2025-09-24,0,1,6,77.55,Kolkata,Pune,,ReliableExpress,1.0,2.0,Slightly-Delayed,Perfect,3.0,266.94,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000127,2025-10-07,2,1,1,903.84,Kolkata,Hong Kong,,EcoDeliver,2.0,2.0,On-Time,Perfect,5.0,588.81,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000128,2025-10-05,1,2,4,52.56,Mumbai,Singapore,,ReliableExpress,3.0,4.0,Slightly-Delayed,Perfect,3.0,391.39,2025-10-09,3.0,Wrong item delivered,Yes,,1.0,3.0,True,1.08,0.0,35.0,-0.4767,1,0
+ORD000129,2025-10-14,0,0,2,3280.49,Bangalore,Bangkok,,ReliableExpress,5.0,7.0,Slightly-Delayed,Perfect,3.0,840.98,,,,,,2.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000130,2025-10-10,2,2,0,143.22,Bangalore,Delhi,,EcoDeliver,5.0,5.0,On-Time,Perfect,5.0,562.77,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000131,2025-09-22,1,0,2,1016.71,Chennai,Delhi,Temperature_Controlled,SpeedyLogistics,5.0,5.0,On-Time,Perfect,5.0,404.32,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000132,2025-09-27,1,2,1,156.71,Chennai,Kolkata,,QuickShip,5.0,6.0,Slightly-Delayed,Perfect,4.0,439.72,,,,,,1.0,4.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000133,2025-10-05,2,2,0,102.22,Delhi,Bangkok,,EcoDeliver,5.0,5.0,On-Time,Wrong_Item,4.0,433.55,2025-10-12,4.0,"Perfect condition, thank you",No,,0.0,4.0,False,1.08,0.0,35.0,0.7351,1,0
+ORD000134,2025-09-01,1,0,2,583.56,Bangalore,Chennai,,SpeedyLogistics,5.0,6.0,Slightly-Delayed,Perfect,3.0,770.25,,,,,,1.0,3.0,True,1.08,0.0,35.0,0.0,0,0
+ORD000135,2025-10-05,2,2,6,1954.08,Bangalore,Kolkata,,ReliableExpress,3.0,6.0,Severely-Delayed,Perfect,1.0,565.66,,,,,,3.0,1.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000136,2025-10-07,0,0,3,278.37,Hyderabad,Ahmedabad,,QuickShip,5.0,10.0,Severely-Delayed,Perfect,1.0,758.17,,,,,,5.0,1.0,True,1.08,0.0,35.0,0.0,2,1
+ORD000137,2025-10-17,1,1,1,365.69,Bangalore,Bangkok,,QuickShip,2.0,2.0,On-Time,Perfect,5.0,325.28,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000138,2025-09-14,1,0,2,1354.42,Delhi,Mumbai,Temperature_Controlled,ReliableExpress,10.0,13.0,Severely-Delayed,Incomplete,3.0,808.82,2025-09-29,3.0,Late delivery but good quality,Yes,Quality,3.0,3.0,True,1.08,0.0,35.0,0.5927,1,0
+ORD000139,2025-09-03,1,1,1,1423.38,Delhi,Pune,,EcoDeliver,1.0,4.0,Severely-Delayed,Perfect,1.0,495.14,2025-09-07,1.0,Late delivery but good quality,No,,3.0,1.0,True,1.08,0.0,35.0,0.5927,3,1
+ORD000140,2025-09-01,1,0,5,380.8,Bangalore,Chennai,,ReliableExpress,10.0,10.0,On-Time,Perfect,4.0,652.02,2025-09-13,4.0,"No complaints, smooth process",Yes,Quality,0.0,4.0,False,1.08,0.0,35.0,-0.5994,1,0
+ORD000141,2025-09-05,2,2,1,207.43,Kolkata,Bangkok,,SpeedyLogistics,4.0,6.0,Slightly-Delayed,Perfect,3.0,734.19,2025-09-15,3.0,"No complaints, smooth process",No,,2.0,3.0,True,1.08,0.0,35.0,-0.5994,2,1
+ORD000142,2025-09-26,2,0,0,456.68,Bangalore,Hong Kong,,EcoDeliver,7.0,7.0,On-Time,Perfect,5.0,598.16,2025-10-04,5.0,"No complaints, smooth process",No,Quality,0.0,5.0,False,1.08,0.0,35.0,-0.5994,2,1
+ORD000143,2025-09-14,1,1,5,302.97,Chennai,Ahmedabad,,SpeedyLogistics,1.0,2.0,Slightly-Delayed,Incomplete,1.0,349.92,2025-09-18,1.0,Late delivery but good quality,No,Quality,1.0,1.0,True,1.08,0.0,35.0,0.5927,2,1
+ORD000144,2025-10-09,2,2,0,645.14,Kolkata,Hong Kong,,GlobalTransit,3.0,5.0,Slightly-Delayed,Wrong_Item,2.0,539.6,2025-10-16,2.0,"No complaints, smooth process",Yes,,2.0,2.0,True,1.08,0.0,35.0,-0.5994,2,1
+ORD000145,2025-09-27,1,0,3,67.26,Bangalore,Delhi,,QuickShip,10.0,10.0,On-Time,Perfect,5.0,777.65,2025-10-08,5.0,"Perfect condition, thank you",No,,0.0,5.0,False,1.08,0.0,35.0,0.7351,1,0
+ORD000146,2025-09-09,1,2,5,611.41,Delhi,Bangalore,Temperature_Controlled,QuickShip,4.0,5.0,Slightly-Delayed,Perfect,3.0,747.94,2025-09-14,3.0,Wrong item delivered,Yes,,1.0,3.0,True,1.08,0.0,35.0,-0.4767,1,0
+ORD000147,2025-09-15,1,2,6,137.35,Hyderabad,Chennai,,GlobalTransit,5.0,6.0,Slightly-Delayed,Perfect,3.0,618.15,2025-09-21,3.0,"Perfect condition, thank you",No,,1.0,3.0,True,1.08,0.0,35.0,0.7351,1,0
+ORD000148,2025-09-15,2,2,1,1570.0,Delhi,Mumbai,,EcoDeliver,3.0,3.0,On-Time,Perfect,5.0,285.28,,,,,,0.0,5.0,False,1.08,0.0,35.0,0.0,0,0
+ORD000149,2025-09-26,2,2,2,147.13,Bangalore,Chennai,,ReliableExpress,4.0,4.0,On-Time,Perfect,5.0,542.75,2025-10-04,5.0,Poor customer service response,Yes,Timing,0.0,5.0,False,1.08,0.0,35.0,-0.4767,1,0
+ORD000150,2025-10-12,0,2,4,151.01,Ahmedabad,Dubai,,QuickShip,5.0,5.0,On-Time,Perfect,4.0,410.63,2025-10-21,4.0,Late delivery but good quality,Yes,Timing,0.0,4.0,False,1.08,0.0,35.0,0.5927,0,0
+ORD000151,2025-09-13,2,2,1,786.9,Mumbai,Ahmedabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000152,2025-10-02,0,0,1,412.12,Mumbai,Ahmedabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000153,2025-10-09,2,1,3,12270.8,Delhi,Bangkok,Fragile,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000154,2025-10-19,2,2,6,35.02,Pune,Chennai,Fragile,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000155,2025-10-02,0,0,4,475.7,Mumbai,Bangalore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000156,2025-09-04,2,0,5,2196.18,Mumbai,Kolkata,Temperature_Controlled,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000157,2025-09-30,0,2,5,169.45,Mumbai,Pune,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000158,2025-10-07,0,2,5,102.94,Mumbai,Bangkok,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000159,2025-09-23,1,2,0,109.26,Mumbai,Bangkok,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000160,2025-10-09,2,1,0,35.95,Bangalore,Chennai,Hazmat,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000161,2025-10-15,0,2,2,3055.07,Bangalore,Mumbai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000162,2025-09-15,2,2,4,246.06,Delhi,Singapore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000163,2025-10-13,1,2,5,206.02,Delhi,Hyderabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000164,2025-09-29,0,1,0,16.67,Mumbai,Hyderabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000165,2025-10-06,2,0,2,46.97,Delhi,Bangkok,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000166,2025-09-13,0,0,6,3633.98,Bangalore,Kolkata,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000167,2025-10-02,0,2,2,635.66,Kolkata,Pune,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000168,2025-09-07,2,2,0,2320.99,Mumbai,Chennai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000169,2025-09-22,2,2,3,1919.82,Bangalore,Dubai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000170,2025-09-28,2,0,3,89.93,Delhi,Hyderabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000171,2025-09-02,1,2,5,15440.85,Hyderabad,Bangalore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000172,2025-10-12,1,1,3,7514.57,Chennai,Bangkok,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000173,2025-10-15,2,0,5,173.18,Bangalore,Mumbai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000174,2025-09-06,2,0,5,1.91,Delhi,Hong Kong,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000175,2025-09-28,1,0,0,236.32,Pune,Hyderabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000176,2025-09-28,0,0,3,576.77,Mumbai,Bangalore,Hazmat,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000177,2025-10-14,2,2,5,172.16,Mumbai,Chennai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000178,2025-10-14,0,2,4,289.37,Delhi,Mumbai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000179,2025-09-20,0,0,6,116.4,Mumbai,Dubai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000180,2025-09-30,1,0,2,1607.53,Pune,Singapore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000181,2025-09-11,1,1,2,443.83,Kolkata,Delhi,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000182,2025-09-28,2,1,0,1681.21,Delhi,Bangkok,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000183,2025-09-25,2,2,3,2523.26,Bangalore,Singapore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000184,2025-10-09,0,0,3,15.46,Ahmedabad,Dubai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000185,2025-10-03,0,0,5,127.0,Hyderabad,Mumbai,Temperature_Controlled,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000186,2025-09-01,0,1,1,158.22,Chennai,Hyderabad,Fragile,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000187,2025-09-27,2,2,5,19092.65,Pune,Singapore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000188,2025-09-13,1,2,6,504.47,Ahmedabad,Bangkok,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000189,2025-10-11,2,0,4,1364.91,Kolkata,Delhi,Fragile,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000190,2025-09-03,0,0,2,24.02,Mumbai,Kolkata,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000191,2025-10-09,1,0,5,500.11,Delhi,Ahmedabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000192,2025-09-06,1,2,1,1750.12,Hyderabad,Bangalore,Hazmat,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000193,2025-09-08,2,2,1,1469.9,Mumbai,Hyderabad,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000194,2025-09-27,2,2,5,1027.72,Hyderabad,Singapore,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000195,2025-09-09,2,1,0,411.37,Mumbai,Hong Kong,Hazmat,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000196,2025-10-07,0,0,2,442.46,Mumbai,Chennai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000197,2025-10-03,2,0,0,31.82,Delhi,Kolkata,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000198,2025-10-12,1,0,4,104.5,Mumbai,Dubai,,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000199,2025-10-14,0,0,1,570.44,Pune,Ahmedabad,Fragile,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
+ORD000200,2025-09-24,0,2,1,137.83,Hyderabad,Mumbai,Temperature_Controlled,,,,,,,,,,,,,,,False,1.08,0.0,35.0,0.0,0,0
